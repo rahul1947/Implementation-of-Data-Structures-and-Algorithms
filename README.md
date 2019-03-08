@@ -1,7 +1,8 @@
-## Implementation-of-Data-Structures-and-Algorithms
+## Implementation of Data Structures and Algorithms
 Collection for all the projects in Implementation of Data Structures and Algorithms course.
 
-Following is the detailed list of each project:
+Following is the detailed list of each project: 
+(please feel free to check the links)
 
 ### A. Long Projects: 
 
