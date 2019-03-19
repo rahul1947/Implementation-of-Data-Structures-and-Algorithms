@@ -10,9 +10,9 @@ Collection of all the projects in Implementation of Data Structures and Algorith
 2. Implementation of algorithms (Sorting and searching, Recursion, Graph algorithms).
 
 Emphasizing on practical approach to algorithms with many programming projects of types: 
-● Long: Implementation of data structures and algorithms (total 5). Teams of 3-4.
-● Short: Empirical studies, Do-and-learn projects. One project (almost) every week. Teams of 2 or individual.
-● Optional*: Individual (no collaboration).
+- Long: Implementation of data structures and algorithms (total 5). Teams of 3-4.
+- Short: Empirical studies, Do-and-learn projects. One project (almost) every week. Teams of 2 or individual.
+- Optional*: Individual (no collaboration).
 
 Following is the detailed list of each project: 
 (please feel free to check-out the links)
