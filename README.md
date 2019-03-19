@@ -1,7 +1,7 @@
 ## Implementation of Data Structures and Algorithms
 
 - [Rahul Nalawade](https://github.com/rahul1947) 
-  (Fall 2018 - Present)
+  (Fall 2018)
 
 Collection of all the projects in Implementation of Data Structures and Algorithms course.
 
