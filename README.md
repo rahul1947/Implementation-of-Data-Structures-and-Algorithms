@@ -2,9 +2,7 @@
 Collection of all the projects in Implementation of Data Structures and Algorithms course.
 
 - [Rahul Nalawade](https://github.com/rahul1947) 
-  rsn170330@utdallas.edu 
-
-- Fall 2018 to Present
+  (Fall 2018 - Present)
 
 Following is the detailed list of each project: 
 (please feel free to check-out the links)
