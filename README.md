@@ -27,7 +27,7 @@ Following is the detailed list of each project:
     <th>Description</th>
   </tr>
   <tr>
-    <td>[LP1: Integer Arithmetic with Arbitrarily Large Numbers](https://github.com/rahul1947/LP1-Integer-Arithmetic-with-Arbitrarily-Large-Numbers)</td>
+    <td>[LP1: Integer Arithmetic with Arbitrarily Large Numbers]</td>
     <td>Sept 23, 2018</td> 
     <td>Array-based implementation of Calculator of very large integers with the length of the numbers as large as 2,147,483,647 (2^31 - 1), with Postfix and Infix evaluation of Arithmetic Expressions.</td>
   </tr>
