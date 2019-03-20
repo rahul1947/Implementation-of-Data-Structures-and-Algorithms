@@ -19,7 +19,32 @@ Following is the detailed list of each project:
 
 ### A. Long Projects: 
 
-|    Title     |    End-Date    | Description | 
+
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td> 
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td> 
+    <td>94</td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+|    Title     |    End_Date    | Description | 
 |:---------------|-----------------:|:--------------| 
 | [LP1: Integer Arithmetic with Arbitrarily Large Numbers](https://github.com/rahul1947/LP1-Integer-Arithmetic-with-Arbitrarily-Large-Numbers)  | Sept 23, 2018 | Array-based implementation of Calculator of very large integers with the length of the numbers as large as 2,147,483,647 (2^31 - 1), with Postfix and Infix evaluation of Arithmetic Expressions. | 
 | [LP2: Skip List Implementation](https://github.com/rahul1947/LP2-Skip-List-Implementation)  | Oct 14, 2018 | Skip Lists: A generalization of sorted linked lists for implementing Dictionary ADT (insert, delete, find, min, floor, ceiling) in O(log n) expected time per operation. And competing with balanced search trees like AVL, Red-Black, and B-Trees. | 
