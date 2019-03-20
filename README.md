@@ -19,32 +19,7 @@ Following is the detailed list of each project:
 
 ### A. Long Projects: 
 
-
-<table style="width:100%">
-  <tr>
-    <th style="width:17%">Title</th>
-    <th style="width:15%">End Date</th> 
-    <th style="width:68%">Description</th>
-  </tr>
-  <tr>
-    <td>LP1: Integer Arithmetic with Arbitrarily Large Numbers</td>
-    <td>Sept 23, 2018</td> 
-    <td>Array-based implementation of Calculator of very large integers with the length of the numbers as large as 2,147,483,647 (2^31 - 1), with Postfix and Infix evaluation of Arithmetic Expressions.</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td> 
-    <td>94</td>
-  </tr>
-</table>
-
-
-
-
-
-
-
-|    Title     |    End_Date    | Description | 
+|     Title      |     End_Date     |  Description  | 
 |:---------------|-----------------:|:--------------| 
 | [LP1: Integer Arithmetic with Arbitrarily Large Numbers](https://github.com/rahul1947/LP1-Integer-Arithmetic-with-Arbitrarily-Large-Numbers)  | Sept 23, 2018 | Array-based implementation of Calculator of very large integers with the length of the numbers as large as 2,147,483,647 (2^31 - 1), with Postfix and Infix evaluation of Arithmetic Expressions. | 
 | [LP2: Skip List Implementation](https://github.com/rahul1947/LP2-Skip-List-Implementation)  | Oct 14, 2018 | Skip Lists: A generalization of sorted linked lists for implementing Dictionary ADT (insert, delete, find, min, floor, ceiling) in O(log n) expected time per operation. And competing with balanced search trees like AVL, Red-Black, and B-Trees. | 
@@ -55,7 +30,7 @@ Following is the detailed list of each project:
  
  ### B. Short Projects: 
  
-|    `Title`     | `End_Date` | `Data Structure/ Algorithm` | `Description` | 
+|     Title      |  End_Date  |  Data Structure/ Algorithm  |  Description  | 
 |:---------------|-----------:|----------------------------:|:--------------| 
 | [SP01: Linked Lists](https://github.com/rahul1947/SP01-Linked-Lists) | Aug 23, 2018 | Linked Lists | Doubly Linked List Implementation using Singly Linked List with best Object Oriented practices. | 
 | [SP02: Lists Stacks and Queue](https://github.com/rahul1947/SP02-Lists-Stacks-and-Queue) | Aug 30, 2018 | Bounded Queue | Bounded Queue Implementation using arrays. | 
