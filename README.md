@@ -22,7 +22,7 @@ Following is the detailed list of each project:
 
 <table style="width:100%">
   <tr>
-    <th style="width:20%">Title</th>
+    <th style="width:17%">Title</th>
     <th style="width:15%">End Date</th> 
     <th>Description</th>
   </tr>
